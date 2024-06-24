@@ -1,0 +1,1 @@
+This project involves the analysis of projected leaf area data using R programming language. The primary goal is to compare leaf areas measured at two different time points (tp1 and tp2) to understand growth patterns or environmental effects on plant development. The analysis includes data visualization and statistical analysis to identify significant differences or trends.
